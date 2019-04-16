@@ -1,4 +1,5 @@
 # Crypto Trading Bot
+* Ratts Fork
 
 [![Build Status](https://travis-ci.org/Haehnchen/crypto-trading-bot.svg?branch=master)](https://travis-ci.org/Haehnchen/crypto-trading-bot)
 
